@@ -3,16 +3,16 @@ Este proyecto implementa Pipo, un agente de inteligencia artificial basado en RA
 
 El sistema utiliza:
 
-FastAPI para la API del agente
+- FastAPI para la API del agente
 
-Recuperación de contexto desde un documento PDF
+- Recuperación de contexto desde un documento PDF
 
-División del texto en fragmentos (chunking)
+- División del texto en fragmentos (chunking)
 
-Embeddings vectoriales
+- Embeddings vectoriales
 
-Búsqueda semántica con FAISS
+- Búsqueda semántica con FAISS
 
-Modelo de lenguaje de OpenAI para generar respuestas
+- Modelo de lenguaje de OpenAI para generar respuestas
 
 # 📂 Estructura del proyecto
