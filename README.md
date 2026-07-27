@@ -51,6 +51,9 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000
 
 
 ## La API está desplegada y accesible en Google Cloud
+<img width="1018" height="395" alt="image" src="https://github.com/user-attachments/assets/74a8f43f-dbce-40a1-92fd-64fbb42bbd0e" />
+
+
 Puedes probarla haciendo clic en **POST** para abrir el endpoint del agente.
 <img width="1799" height="919" alt="image" src="https://github.com/user-attachments/assets/7da95b6d-3292-4826-92ab-d8c0e87f94aa" />
 
