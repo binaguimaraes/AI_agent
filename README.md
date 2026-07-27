@@ -22,7 +22,7 @@ El sistema carga un PDF, lo divide en fragmentos, genera embeddings, los almacen
 El objetivo de este proyecto es simplificar el acceso a la información y evitar que las personas colaboradoras tengan que abrir múltiples archivos y documentos para resolver sus dudas.  
 Pipo centraliza todo el conocimiento en un solo punto, ofreciendo respuestas rápidas, claras y contextualizadas.
 
-##Instrucciones para ejecutar el proyecto
+## Instrucciones para ejecutar el proyecto
 
 ### 1. Clonar el repositorio
 ```bash
@@ -66,7 +66,7 @@ Finalmente, obtendrás una respuesta generada por Pipo.
 ## Ejemplos de uso:
 <img width="1689" height="740" alt="Screenshot 2026-07-27 030858" src="https://github.com/user-attachments/assets/3d1364d5-142d-4f40-962e-1fc6d301dc49" />
 <img width="1529" height="205" alt="Screenshot 2026-07-27 030815" src="https://github.com/user-attachments/assets/ee175541-636d-4dcb-bdff-02ce9e423acf" />
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="1669" height="748" alt="image" src="https://github.com/user-attachments/assets/eaddd733-9824-456a-958b-94ffa4632296" />
 <img width="1542" height="373" alt="image" src="https://github.com/user-attachments/assets/79ab3fb1-0a8e-4bf8-81ac-34b83bc959d2" />
 
