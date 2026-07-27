@@ -22,6 +22,9 @@ Ejemplo:
 <img width="1689" height="740" alt="Screenshot 2026-07-27 030858" src="https://github.com/user-attachments/assets/3d1364d5-142d-4f40-962e-1fc6d301dc49" />
 <img width="1529" height="205" alt="Screenshot 2026-07-27 030815" src="https://github.com/user-attachments/assets/ee175541-636d-4dcb-bdff-02ce9e423acf" />
 
+<img width="1669" height="748" alt="image" src="https://github.com/user-attachments/assets/eaddd733-9824-456a-958b-94ffa4632296" />
+<img width="1542" height="373" alt="image" src="https://github.com/user-attachments/assets/79ab3fb1-0a8e-4bf8-81ac-34b83bc959d2" />
+
 
 
 ## 🎯 Objetivo del proyecto
